@@ -7,11 +7,11 @@
 
 1. Linear Regression Model
   
-   Test r^2 Error:  0.7954751007064392
+   Test r^2 Error:  0.7955
 
 2. Lasso Regression Model
    
-   Test r^2 Error:  0.7940197883277862
+   Test r^2 Error:  0.7940
 
 
 [1] - <https://scikit-learn.org/stable/modules/linear_model.html>
